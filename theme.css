@@ -20,7 +20,8 @@
 }
 
 /* Define font colours */
-.sn-component {
+.sn-component,
+.tag-tree .self .tag-info input.title {
     color: var(--font-primary);
 }
 
