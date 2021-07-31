@@ -1,4 +1,4 @@
-##Installation
+## Installation
 
 1. Open StandardNotes
 2. In the bottom left corner, click "Extensions", then "Import Extension"
