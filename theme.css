@@ -1,0 +1,47 @@
+:root {
+    --sn-stylekit-info-color: #F9837A;
+    --font-primary: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+:root {
+    --sn-stylekit-info-color: #e85c50;
+    --sn-stylekit-background-color:  #181818;
+    --sn-stylekit-contrast-background-color: #121212;
+    --sn-stylekit-secondary-background-color: #121212;
+    --sn-stylekit-secondary-contrast-background-color: #222;
+    --sn-stylekit-border-color: #121212;
+    --sn-stylekit-contrast-border-color: #121212;
+    --font-primary: #fff;
+    --sn-stylekit-editor-foreground-color: #fff;
+    --sn-stylekit-contrast-foreground-color: #e3e3e3;
+    --sn-stylekit-secondary-foreground-color: #e3e3e3;
+}
+}
+
+/* Define font colours */
+.sn-component {
+    color: var(--font-primary);
+}
+
+/* Border bars removal */
+#notes-column .note, .notes .note,
+.sn-component .sk-app-bar,
+.sn-component .sk-menu-panel .sk-menu-panel-row {
+    border: none;
+}
+#notes-column, .notesv {
+    border-left: none;
+    border-right:1px solid var(--sn-stylekit-border-color);
+}
+
+/* Menu bar backgrounds removal */
+#notes-menu-bar > div,
+#editor-menu-bar {
+    background-color: transparent;
+}
+
+/* Add editor bar bottom border */
+#editor-menu-bar {
+    border-bottom: 1px solid var(--sn-stylekit-border-color);
+}

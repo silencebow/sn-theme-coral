@@ -1,0 +1,13 @@
+{
+  "identifier": "org.silencbeow.sn-theme-coral-flat",
+  "name": "Coral Flat",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "Flattened, coral coloured theme for StandardNotes.",
+  "url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral-flat/theme.css",
+  "download_url": "https://github.com/silencebow/sn-theme-coral-flat/archive/master.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral-flat/extension.json",
+  "marketing_url": "https://github.com/silencebow/sn-theme-coral-flat",
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral-flat/screenshot.png"
+}
