@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-coral-flat",
+  "name": "sn-theme-coral",
   "version": "1.1.0",
   "main": "theme.css",
   "sn": {
@@ -7,6 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/silencebow/sn-theme-coral-flat.git"
+    "url": "git://github.com/silencebow/sn-theme-coral.git"
   }
 }
