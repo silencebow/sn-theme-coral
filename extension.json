@@ -9,5 +9,11 @@
   "download_url": "https://github.com/silencebow/sn-theme-coral-flat/archive/master.zip",
   "latest_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral-flat/extension.json",
   "marketing_url": "https://github.com/silencebow/sn-theme-coral-flat",
-  "thumbnail_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral-flat/screenshot.png"
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral-flat/screenshot.png",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#F9837A",
+    "foreground_color": "#90E850",
+    "border_color": "#F9837A"
+  }
 }
