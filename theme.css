@@ -46,3 +46,17 @@
 #editor-menu-bar {
     border-bottom: 1px solid var(--sn-stylekit-border-color);
 }
+
+/*
+Remove border from folder circles
+They're less circular but at least there's no artifacting
+*/
+.sn-component .sk-circle {
+    border: 0px;
+}
+
+/* 
+--sn-stylekit-success-color: lightblue;
+--sn-stylekit-warning-color: red;
+--sn-stylekit-danger-color: darkkhaki;
+*/
