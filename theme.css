@@ -1,6 +1,9 @@
 :root {
     --sn-stylekit-info-color: #F9837A;
     --font-primary: #000;
+    --sn-stylekit-success-color: #90E850;
+    --sn-stylekit-danger-color: #50DCE8;
+    --sn-stylekit-warning-color: #A850E8;
 }
 
 @media (prefers-color-scheme: dark) {
