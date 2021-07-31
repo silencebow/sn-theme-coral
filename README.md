@@ -1,3 +1,5 @@
+# Coral theme for Standard Notes
+
 ## Installation
 
 1. Open StandardNotes
