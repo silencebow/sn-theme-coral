@@ -5,7 +5,7 @@
 
 @media (prefers-color-scheme: dark) {
 :root {
-    --sn-stylekit-info-color: #e85c50;
+    --sn-stylekit-info-color: #ff766b;
     --sn-stylekit-background-color:  #181818;
     --sn-stylekit-contrast-background-color: #121212;
     --sn-stylekit-secondary-background-color: #121212;
