@@ -36,6 +36,9 @@
 .sn-component .sk-menu-panel .sk-menu-panel-row {
     border: none;
 }
+#desktop-title-bar {
+    border-bottom: 1px solid var(--sn-stylekit-secondary-background-color);
+}
 #notes-column, .notesv {
     border-left: none;
     border-right:1px solid var(--sn-stylekit-border-color);
