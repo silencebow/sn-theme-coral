@@ -9,7 +9,7 @@
   "download_url": "https://github.com/silencebow/sn-theme-coral/archive/master.zip",
   "latest_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral/extension.json",
   "marketing_url": "https://github.com/silencebow/sn-theme-coral",
-  "thumbnail_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral/screenshot.png",
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral/screenshot-light.png",
   "dock_icon": {
     "type": "circle",
     "background_color": "#F9837A",
