@@ -6,7 +6,7 @@ This theme has only been tested on Windows 10 and only with the plain editor.
 
 ## Installation
 
-1. Open StandardNotes
+1. Open Standard Notes
 2. In the bottom left corner, click "Extensions", then "Import Extension"
 3. Enter "https://cdn.jsdelivr.net/gh/silencebow/sn-theme-coral/extension.json" as the extension link
 4. Click enter and confirm the installation
