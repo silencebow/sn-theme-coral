@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-coral",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "main": "theme.css",
   "sn": {
     "main": "theme.css"
