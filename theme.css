@@ -44,6 +44,11 @@
     border-right:1px solid var(--sn-stylekit-border-color);
 }
 
+/* Hide the borders and separator along the bottom bar */
+.sn-component .sk-app-bar .sk-app-bar-item.border {
+    display: none;
+}
+
 /* Menu bar backgrounds removal */
 #notes-menu-bar > div,
 #editor-menu-bar {
