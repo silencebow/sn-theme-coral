@@ -14,8 +14,8 @@ This theme has only been tested on Windows 10 and only with the plain editor.
 
 ## Screenshots
 
-![Coral Light](screenshot-light.png)
+![Coral Light](https://github.com/silencebow/sn-theme-coral/raw/master/screenshot-light.png)
 Light
 
-![Coral Dark](screenshot-dark.png)
+![Coral Dark](https://github.com/silencebow/sn-theme-coral/raw/master/screenshot-dark.png)
 Dark
