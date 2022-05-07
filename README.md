@@ -14,8 +14,8 @@ This theme has only been tested on Windows 10 and only with the plain editor.
 
 ## Screenshots
 
-Light
 ![Coral Light](screenshot-light.png)
+Light
 
-Dark
 ![Coral Dark](screenshot-dark.png)
+Dark
