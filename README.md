@@ -1,4 +1,7 @@
 # Coral theme for Standard Notes
+
+### NOTE: Dark mode no longer appears correctly with Standard Notes v3.14.0 and up
+
 **Coral is a dynamic theme** for Standard Notes. Its colour changes automatically based on your system colour theme. See the screenshots below of both the light and dark versions.
 If you're on Windows 10 or 11, you can have your system theme change automatically using [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode).
 
